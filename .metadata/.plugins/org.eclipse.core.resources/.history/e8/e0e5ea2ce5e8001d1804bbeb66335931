@@ -8,10 +8,6 @@ public class PromotionExample {
 		int intValue = byteValue;
 		System.out.println("intValue: " + intValue);
 		
-		//byte byteValue2 = -127;
-		//char charValue2 = byteValue;
-		//System.out.println("charValue2: " + charValue2);
-		
 		short shortValue = 32767;
 		intValue = shortValue;
 		System.out.println("intValue: " + intValue);
